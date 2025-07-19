@@ -18,7 +18,7 @@ for i in range(len(unique)):
 
 
 
-#print(count)
-#print(unique)
+print(count)
+print(unique)
 print(output)
 
